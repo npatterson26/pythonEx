@@ -1,0 +1,1 @@
+curl -v -u nathanpatterson26@gmail.com:Sampson0 -X GET https://www.toggl.com/api/v8/me
